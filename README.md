@@ -1,8 +1,6 @@
-# 💰 Budget Tracker CLI
+# Budget Tracker CLI
 
 A command-line personal finance tool built in Python. Track income and expenses, view category summaries, and export reports to CSV — all from your terminal.
-
-Built as **Project 1** of a structured Junior Python Developer curriculum, covering OOP, File I/O, data structures, error handling, testing, and Git workflow.
 
 ---
 
@@ -121,19 +119,3 @@ budget_tracker/cli.py          38     38     0%
 -----------------------------------------------
 TOTAL                          98     41    58%
 ```
-
----
-
-## Roadmap
-
-- [ ] Add date filtering (view transactions by month)
-- [ ] Add a `delete` command
-- [ ] Colour-coded terminal output with `rich`
-- [ ] SQLite backend replacing CSV storage
-- [ ] Monthly budget limits with overspend alerts
-
----
-
-## License
-
-MIT
